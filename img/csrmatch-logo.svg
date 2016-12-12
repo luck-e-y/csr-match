@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="282.786px" height="40px" viewBox="0 0 282.786 40" enable-background="new 0 0 282.786 40" xml:space="preserve">
+<polygon fill="#69B1E1" points="105.981,2.17 83.33,13.067 93.863,34.966 116.516,24.068 113.972,18.781 96.606,27.135 
+	91.157,15.812 108.523,7.457 "/>
+<polygon fill="#69B1E1" points="95.632,17.378 98.172,22.665 115.54,14.309 120.989,25.636 103.623,33.988 106.164,39.275 
+	128.816,28.377 118.283,6.48 "/>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="2" y="2.17" width="279.361" height="37.104"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 133.8467 34.9688)" fill="#69B1E1" font-family="'MyriadPro-Regular'" font-size="42.846">MA</text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 196.0723 34.4326)" fill="#69B1E1" font-family="'MyriadPro-Regular'" font-size="42.846">TC</text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 245.9473 34.4326)" fill="#69B1E1" font-family="'MyriadPro-Regular'" font-size="42.846">H</text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 0.5547 34.3906)" fill="#69B1E1" font-family="'MyriadPro-Regular'" font-size="42.846">CSR</text>
+	</g>
+</g>
+</svg>
